@@ -1,0 +1,1 @@
+# Real-time-streaming-banking-data-using-Redpanda-Materialize-and-dbt
